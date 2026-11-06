@@ -1,0 +1,13 @@
+{
+  "id": "solomiia2006/hw2-frcnn-baseline",
+  "title": "hw2-frcnn-baseline",
+  "code_file": "../../02_faster_rcnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": ["solomiia2006/hw2-eval-lib"],
+  "competition_sources": ["multiple-object-video-detection-hw-2-ucu-ai-2026"],
+  "kernel_sources": ["solomiia2006/hw2-data"]
+}

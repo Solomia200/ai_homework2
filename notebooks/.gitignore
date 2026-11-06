@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+clips.csv
+prepared_check.png
+submission_format_check.csv
+00_eval_check.ipynb

@@ -1,0 +1,13 @@
+{
+  "id": "solomiia2006/hw2-data",
+  "title": "hw2-data",
+  "code_file": "../../01_data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["multiple-object-video-detection-hw-2-ucu-ai-2026"],
+  "kernel_sources": []
+}
